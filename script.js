@@ -250,6 +250,35 @@ function getCategoryName(category) {
     }
 }
 
+// Funktion zum Teilen des Ergebnisses auf Social Media
+function shareResult(platform) {
+    const percentage = Math.round((correctAnswers / currentQuestions.length) * 100);
+    const categoryName = getCategoryName(currentCategory);
+    const url = window.location.href;
+    const text = `Ich habe das T-Fox Techero-Quiz in der Kategorie "${categoryName}" absolviert und ${correctAnswers}/${currentQuestions.length} (${percentage}%) Fragen richtig beantwortet! Spiele auch mit: ${url}`;
+
+    let shareUrl = '';
+
+    switch(platform) {
+        case 'twitter':
+            shareUrl = `https://twitter.com/intent/tweet?text=${encodeURIComponent(text)}`;
+            break;
+        case 'facebook':
+            shareUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(url)}&quote=${encodeURIComponent(text)}`;
+            break;
+        case 'whatsapp':
+            shareUrl = `https://wa.me/?text=${encodeURIComponent(text)}`;
+            break;
+        case 'linkedin':
+            shareUrl = `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(url)}`;
+            break;
+    }
+
+    if (shareUrl) {
+        window.open(shareUrl, '_blank', 'width=600,height=400');
+    }
+}
+
 // Initialisierung
 window.addEventListener('DOMContentLoaded', () => {
     changeFoxReaction('normal', foxReactions.greeting);

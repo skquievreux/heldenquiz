@@ -1,0 +1,15 @@
+{
+  "name": "t-fox-quiz",
+  "version": "1.0.0",
+  "description": "T-Fox' Techero-Quiz - Ein interaktives Quiz für Kinder",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve . -l 8080"
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  },
+  "keywords": ["quiz", "education", "children", "t-fox"],
+  "author": "T-Fox Team",
+  "license": "MIT"
+}

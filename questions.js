@@ -377,6 +377,39 @@ const quizQuestions = {
             ],
             correctAnswer: 2,
             explanation: "Zuhören und Unterstützung anbieten sind gute Wege, um jemandem zu helfen, der traurig ist."
+        },
+        {
+            question: "Was ist wichtig, wenn man in einem Team arbeitet?",
+            answers: [
+                "Immer Recht haben wollen",
+                "Aufeinander hören und sich respektieren",
+                "Nur die eigenen Ideen durchsetzen",
+                "Andere kritisieren"
+            ],
+            correctAnswer: 1,
+            explanation: "Respekt und Zuhören sind die Grundlagen für eine gute Teamarbeit."
+        },
+        {
+            question: "Wie kann man zeigen, dass man ein guter Teamkamerad ist?",
+            answers: [
+                "Anderen bei Problemen helfen",
+                "Immer der Beste sein wollen",
+                "Nur mit den Stärkeren zusammenarbeiten",
+                "Schwächere ausschließen"
+            ],
+            correctAnswer: 0,
+            explanation: "Ein guter Teamkamerad hilft anderen und schließt niemanden aus."
+        },
+        {
+            question: "Was bedeutet es, 'fair' im Team zu sein?",
+            answers: [
+                "Immer gewinnen wollen",
+                "Nur die leichten Aufgaben übernehmen",
+                "Alle gleich behandeln und gerecht sein",
+                "Sich die besten Sachen aussuchen"
+            ],
+            correctAnswer: 2,
+            explanation: "Fairness bedeutet, alle gleich zu behandeln und gerecht zu handeln."
         }
     ],
     
@@ -403,6 +436,39 @@ const quizQuestions = {
             ],
             correctAnswer: 1,
             explanation: "Der kreative Prozess umfasst verschiedene Phasen wie Inspiration, Ideenfindung, Ausarbeitung und Umsetzung."
+        },
+        {
+            question: "Was kann man tun, um kreativer zu werden?",
+            answers: [
+                "Immer das Gleiche machen",
+                "Neue Dinge ausprobieren und experimentieren",
+                "Nur kopieren, was andere machen",
+                "Aufgeben, wenn es schwierig wird"
+            ],
+            correctAnswer: 1,
+            explanation: "Kreativität wächst, wenn man neue Dinge ausprobiert und experimentiert."
+        },
+        {
+            question: "Welche Grundfarben gibt es?",
+            answers: [
+                "Rot, Blau, Gelb",
+                "Grün, Orange, Lila",
+                "Schwarz, Weiß, Grau",
+                "Rosa, Braun, Türkis"
+            ],
+            correctAnswer: 0,
+            explanation: "Die drei Grundfarben sind Rot, Blau und Gelb. Aus ihnen können alle anderen Farben gemischt werden."
+        },
+        {
+            question: "Was ist ein 'Entwurf' oder 'Sketch'?",
+            answers: [
+                "Ein fertiges Kunstwerk",
+                "Eine erste schnelle Zeichnung einer Idee",
+                "Ein teurer Pinsel",
+                "Eine Art von Farbe"
+            ],
+            correctAnswer: 1,
+            explanation: "Ein Entwurf oder Sketch ist eine erste schnelle Zeichnung, um eine Idee festzuhalten."
         },
         {
             question: "Welche Farben ergeben gemischt die Farbe Lila?",

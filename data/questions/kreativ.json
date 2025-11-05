@@ -1,0 +1,414 @@
+{
+  "category": "kreativ",
+  "displayName": "Kreativ-Ecke",
+  "icon": "🎨",
+  "questions": [
+    {
+      "question": "Was kann helfen, wenn man eine kreative Blockade hat?",
+      "answers": [
+        "Aufgeben und etwas anderes machen",
+        "Eine Pause machen und später mit frischen Ideen zurückkommen",
+        "Genau das Gleiche wie alle anderen machen",
+        "Sich ärgern und beschweren"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Eine Pause kann helfen, den Kopf frei zu bekommen und mit neuen Ideen zurückzukehren."
+    },
+    {
+      "question": "Was ist ein 'kreativer Prozess'?",
+      "answers": [
+        "Ein spezieller Drucker für Kunstwerke",
+        "Eine Reihe von Schritten, um von einer Idee zu einem kreativen Ergebnis zu kommen",
+        "Ein Computerprogramm für Künstler",
+        "Eine besondere Art von Farbe"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Der kreative Prozess umfasst verschiedene Phasen wie Inspiration, Ideenfindung, Ausarbeitung und Umsetzung."
+    },
+    {
+      "question": "Was kann man tun, um kreativer zu werden?",
+      "answers": [
+        "Immer das Gleiche machen",
+        "Neue Dinge ausprobieren und experimentieren",
+        "Nur kopieren, was andere machen",
+        "Aufgeben, wenn es schwierig wird"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kreativität wächst, wenn man neue Dinge ausprobiert und experimentiert."
+    },
+    {
+      "question": "Welche Grundfarben gibt es?",
+      "answers": [
+        "Rot, Blau, Gelb",
+        "Grün, Orange, Lila",
+        "Schwarz, Weiß, Grau",
+        "Rosa, Braun, Türkis"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Die drei Grundfarben sind Rot, Blau und Gelb. Aus ihnen können alle anderen Farben gemischt werden."
+    },
+    {
+      "question": "Was ist ein 'Entwurf' oder 'Sketch'?",
+      "answers": [
+        "Ein fertiges Kunstwerk",
+        "Eine erste schnelle Zeichnung einer Idee",
+        "Ein teurer Pinsel",
+        "Eine Art von Farbe"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ein Entwurf oder Sketch ist eine erste schnelle Zeichnung, um eine Idee festzuhalten."
+    },
+    {
+      "question": "Welche Farben ergeben gemischt die Farbe Lila?",
+      "answers": [
+        "Rot und Blau",
+        "Blau und Gelb",
+        "Rot und Gelb",
+        "Grün und Rot"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Rot und Blau ergeben zusammen die Farbe Lila oder Violett."
+    },
+    {
+      "question": "Was ist eine 'Collage'?",
+      "answers": [
+        "Eine spezielle Malerei mit Wasserfarben",
+        "Ein Kunstwerk aus verschiedenen zusammengeklebten Materialien",
+        "Eine Sammlung von Stiften",
+        "Ein Musikstück"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Eine Collage ist ein Kunstwerk, bei dem verschiedene Materialien wie Papier, Fotos oder Stoffe zusammengeklebt werden."
+    },
+    {
+      "question": "Was bedeutet 'Inspiration'?",
+      "answers": [
+        "Tief einatmen",
+        "Eine plötzliche kreative Idee oder Anregung",
+        "Sehr müde sein",
+        "Eine Art von Krankheit"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Inspiration ist eine plötzliche kreative Idee oder Anregung, die zu neuen Gedanken oder Werken führt."
+    },
+    {
+      "question": "Welches dieser Werkzeuge wird beim Töpfern verwendet?",
+      "answers": [
+        "Hammer",
+        "Säge",
+        "Töpferscheibe",
+        "Bohrer"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Die Töpferscheibe ist ein wichtiges Werkzeug beim Töpfern, um Gefäße zu formen."
+    },
+    {
+      "question": "Was ist ein 'Skizzenbuch'?",
+      "answers": [
+        "Ein Buch mit fertigen Zeichnungen zum Ausmalen",
+        "Ein Notizbuch für schnelle Zeichnungen und Ideen",
+        "Ein Buch über berühmte Künstler",
+        "Ein Buch mit Anleitungen zum Zeichnen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ein Skizzenbuch ist ein Notizbuch, in dem man schnelle Zeichnungen, Ideen und Entwürfe festhalten kann."
+    },
+    {
+      "question": "Was ist 'Perspektive' in der Kunst?",
+      "answers": [
+        "Eine besondere Farbe",
+        "Die Darstellung von Tiefe und räumlichen Beziehungen auf einer flachen Oberfläche",
+        "Ein spezieller Pinsel",
+        "Eine Art von Skulptur"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Perspektive ist die Technik, dreidimensionale Objekte auf einer zweidimensionalen Fläche darzustellen."
+    },
+    {
+      "question": "Welche dieser Kunstrichtungen ist die älteste?",
+      "answers": [
+        "Höhlenmalerei",
+        "Pop-Art",
+        "Impressionismus",
+        "Kubismus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Höhlenmalerei ist eine der ältesten Kunstformen der Menschheit, die bereits vor tausenden von Jahren praktiziert wurde."
+    },
+    {
+      "question": "Was ist ein 'Mosaik'?",
+      "answers": [
+        "Eine Zeichnung mit Bleistift",
+        "Ein Bild aus vielen kleinen farbigen Steinen oder Glasstücken",
+        "Eine Skulptur aus Holz",
+        "Eine spezielle Maltechnik mit Wasserfarben"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ein Mosaik ist ein Bild oder Muster, das aus vielen kleinen farbigen Steinen, Glasstücken oder anderen Materialien zusammengesetzt ist."
+    },
+    {
+      "question": "Was ist 'Origami'?",
+      "answers": [
+        "Eine japanische Kampfkunst",
+        "Eine besondere Art von Sushi",
+        "Die Kunst des Papierfaltens",
+        "Eine traditionelle japanische Malerei"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Origami ist die japanische Kunst des Papierfaltens, bei der aus einem Blatt Papier Figuren gefaltet werden."
+    },
+    {
+      "question": "Was ist ein 'Stillleben' in der Malerei?",
+      "answers": [
+        "Ein Bild von schlafenden Menschen",
+        "Ein Bild von unbewegten Gegenständen wie Früchten, Blumen oder Vasen",
+        "Ein Bild ohne Farben",
+        "Ein Bild von einer leeren Landschaft"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ein Stillleben ist ein Gemälde, das unbewegliche, leblose Gegenstände wie Früchte, Blumen oder Alltagsobjekte darstellt."
+    },
+    {
+      "question": "Welches Material wird für Aquarellmalerei verwendet?",
+      "answers": [
+        "Ölfarben",
+        "Wasserfarben",
+        "Wachsmalstifte",
+        "Tonerde"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Für Aquarellmalerei werden Wasserfarben verwendet, die mit Wasser verdünnt werden."
+    },
+    {
+      "question": "Was ist eine 'Skulptur'?",
+      "answers": [
+        "Eine flache Zeichnung",
+        "Ein dreidimensionales Kunstwerk",
+        "Eine Art von Gemälde",
+        "Ein digitales Kunstwerk"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Eine Skulptur ist ein dreidimensionales Kunstwerk, das durch Formen von Material wie Stein, Holz oder Metall entsteht."
+    },
+    {
+      "question": "Was bedeutet 'abstrakte Kunst'?",
+      "answers": [
+        "Kunst, die sehr realistisch ist",
+        "Kunst, die nicht versucht, die Realität genau abzubilden",
+        "Kunst, die nur von Kindern gemacht wird",
+        "Kunst, die nur in Museen zu sehen ist"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Abstrakte Kunst stellt die Realität nicht naturgetreu dar, sondern verwendet Formen, Farben und Linien, um Ideen oder Gefühle auszudrücken."
+    },
+    {
+      "question": "Was ist ein 'Portfolio' für Künstler?",
+      "answers": [
+        "Ein spezieller Pinsel",
+        "Eine Sammlung der besten Arbeiten eines Künstlers",
+        "Ein Gemälde von einem Porträt",
+        "Ein Kunstmuseum"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ein Portfolio ist eine Sammlung der besten oder repräsentativsten Arbeiten eines Künstlers, die seine Fähigkeiten zeigt."
+    },
+    {
+      "question": "Was ist 'Schattenspiel'?",
+      "answers": [
+        "Ein Brettspiel",
+        "Eine Technik, um Schatten in Zeichnungen darzustellen",
+        "Ein Theaterstück mit Schattenfiguren",
+        "Ein Versteckspiel im Dunkeln"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Schattenspiel ist eine Theaterform, bei der Figuren hinter einer beleuchteten Leinwand bewegt werden, sodass nur ihre Schatten sichtbar sind."
+    },
+    {
+      "question": "Welches dieser Werkzeuge wird zum Schnitzen verwendet?",
+      "answers": [
+        "Pinsel",
+        "Schnitzmesser",
+        "Hammer",
+        "Schere"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ein Schnitzmesser ist ein spezielles Werkzeug mit einer scharfen Klinge, das zum Schnitzen von Holz oder anderen Materialien verwendet wird."
+    },
+    {
+      "question": "Was ist eine 'Installation' in der Kunst?",
+      "answers": [
+        "Das Aufhängen eines Bildes an der Wand",
+        "Ein dreidimensionales Kunstwerk, das einen Raum gestaltet oder verändert",
+        "Die Installation einer Software auf dem Computer",
+        "Eine Anleitung zum Basteln"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Eine Installation ist ein räumliches Kunstwerk, das oft einen ganzen Raum einnimmt und verschiedene Materialien und Medien kombinieren kann."
+    },
+    {
+      "question": "Was ist ein 'Farbkreis'?",
+      "answers": [
+        "Ein rundes Bild",
+        "Eine kreisförmige Anordnung von Farben, die ihre Beziehungen zueinander zeigt",
+        "Ein Kreis, der mit verschiedenen Farben gemalt wurde",
+        "Ein Spielzeug für Kinder"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ein Farbkreis ist eine kreisförmige Anordnung von Farben, die ihre Beziehungen zueinander (wie Primär-, Sekundär- und Komplementärfarben) zeigt."
+    },
+    {
+      "question": "Was ist Brainstorming?",
+      "answers": [
+        "Ein Gewitter im Gehirn",
+        "Eine Methode, um viele Ideen zu sammeln, ohne sie sofort zu bewerten",
+        "Eine Sportart für das Gehirn",
+        "Eine Methode, um Gedanken zu sortieren"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Beim Brainstorming sammelt man viele Ideen, ohne sie sofort zu kritisieren."
+    },
+    {
+      "question": "Welche Farben ergeben gemischt die Farbe Grün?",
+      "answers": [
+        "Rot und Blau",
+        "Gelb und Blau",
+        "Rot und Gelb",
+        "Blau und Lila"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gelb und Blau ergeben zusammen die Farbe Grün."
+    },
+    {
+      "question": "Was ist ein guter erster Schritt, um ein Problem zu lösen?",
+      "answers": [
+        "Sofort mit der erstbesten Lösung anfangen",
+        "Das Problem genau verstehen und definieren",
+        "Jemand anderen bitten, es für dich zu lösen",
+        "Hoffen, dass das Problem von alleine verschwindet"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Um ein Problem zu lösen, sollte man es zuerst genau verstehen."
+    },
+    {
+      "question": "Was bedeutet es, 'out of the box' zu denken?",
+      "answers": [
+        "Draußen zu denken, nicht in einem Raum",
+        "An Dinge zu denken, die in einer Box sind",
+        "Ungewöhnliche und neue Lösungswege zu finden",
+        "Nur an bekannte Lösungen zu denken"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Out of the box' denken bedeutet, ungewöhnliche und kreative Lösungswege zu finden."
+    },
+    {
+      "question": "Welche Farben sind die Grundfarben?",
+      "answers": [
+        "Rot, Blau und Gelb",
+        "Grün, Orange und Lila",
+        "Schwarz, Weiß und Grau",
+        "Pink, Türkis und Braun"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Die Grundfarben sind Rot, Blau und Gelb. Aus ihnen können alle anderen Farben gemischt werden."
+    },
+    {
+      "question": "Was ist ein Mindmap?",
+      "answers": [
+        "Eine Landkarte für Gedanken",
+        "Eine grafische Darstellung von Ideen und Konzepten",
+        "Ein Spiel für kluge Kinder",
+        "Eine App für das Smartphone"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ein Mindmap ist eine grafische Methode, um Ideen und ihre Verbindungen darzustellen."
+    },
+    {
+      "question": "Welche dieser Aktivitäten fördert die Kreativität?",
+      "answers": [
+        "Fernsehen schauen",
+        "Computerspiele spielen",
+        "Malen und Zeichnen",
+        "Schlafen"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Malen und Zeichnen sind kreative Tätigkeiten, die die Fantasie anregen."
+    },
+    {
+      "question": "Was ist ein Prototyp?",
+      "answers": [
+        "Ein erstes Testmodell einer Erfindung",
+        "Ein besonders kluger Mensch",
+        "Eine Art von Dinosaurier",
+        "Ein Computervirus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ein Prototyp ist ein erstes Modell oder Muster, das zum Testen einer Idee dient."
+    },
+    {
+      "question": "Welche Farben ergeben gemischt die Farbe Orange?",
+      "answers": [
+        "Rot und Gelb",
+        "Blau und Gelb",
+        "Rot und Blau",
+        "Grün und Rot"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Rot und Gelb ergeben zusammen die Farbe Orange."
+    },
+    {
+      "question": "Was ist ein Experiment?",
+      "answers": [
+        "Eine gefährliche Aktivität",
+        "Ein Test, um etwas herauszufinden",
+        "Eine Art von Hausaufgabe",
+        "Ein Trick"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ein Experiment ist ein Test oder Versuch, um eine Frage zu beantworten oder etwas zu erforschen."
+    },
+    {
+      "question": "Was bedeutet 'Innovation'?",
+      "answers": [
+        "Etwas kaputt machen",
+        "Etwas Neues erfinden oder verbessern",
+        "Etwas kopieren",
+        "Etwas vergessen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Innovation bedeutet, etwas Neues zu schaffen oder etwas Bestehendes zu verbessern."
+    },
+    {
+      "question": "Welches dieser Materialien eignet sich gut zum Basteln?",
+      "answers": [
+        "Glas",
+        "Metall",
+        "Papier und Pappe",
+        "Stein"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Papier und Pappe sind leicht zu bearbeiten und vielseitig einsetzbar beim Basteln."
+    },
+    {
+      "question": "Was ist ein Rätsel?",
+      "answers": [
+        "Eine Art von Süßigkeit",
+        "Eine knifflige Aufgabe, die gelöst werden muss",
+        "Ein Spielzeug für Babys",
+        "Ein Tier im Zoo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ein Rätsel ist eine knifflige Aufgabe oder Frage, die zum Nachdenken anregt."
+    },
+    {
+      "question": "Warum ist es manchmal gut, Fehler zu machen?",
+      "answers": [
+        "Weil man dann bestraft wird",
+        "Weil man dann weniger arbeiten muss",
+        "Weil man daraus lernen kann",
+        "Weil Fehler immer lustig sind"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Aus Fehlern kann man lernen und sie helfen uns, besser zu werden."
+    }
+  ]
+}

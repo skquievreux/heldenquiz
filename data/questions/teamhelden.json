@@ -1,0 +1,414 @@
+{
+  "category": "teamhelden",
+  "displayName": "Teamhelden",
+  "icon": "🦊",
+  "questions": [
+    {
+      "question": "Was ist eine wichtige Eigenschaft eines guten Teamplayers?",
+      "answers": [
+        "Immer die eigene Meinung durchsetzen",
+        "Anderen zuhören können",
+        "Alleine arbeiten",
+        "Alle Aufgaben selbst erledigen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ein guter Teamplayer kann anderen zuhören und ihre Ideen respektieren."
+    },
+    {
+      "question": "Was bedeutet 'Teambuilding'?",
+      "answers": [
+        "Ein Haus für das Team bauen",
+        "Aktivitäten, die den Zusammenhalt im Team stärken",
+        "Neue Teammitglieder finden",
+        "Ein Computerspiel für Teams"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Teambuilding umfasst Aktivitäten, die den Zusammenhalt und die Zusammenarbeit im Team verbessern."
+    },
+    {
+      "question": "Wie kann man Konflikte im Team am besten lösen?",
+      "answers": [
+        "Den Konflikt ignorieren",
+        "Sich beim Chef beschweren",
+        "Offen darüber sprechen und gemeinsam eine Lösung finden",
+        "Das Team verlassen"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Offene Kommunikation und gemeinsames Problemlösen sind der beste Weg, um Konflikte zu lösen."
+    },
+    {
+      "question": "Was ist wichtig für eine gute Kommunikation im Team?",
+      "answers": [
+        "Nur sprechen, wenn man gefragt wird",
+        "Klar und respektvoll kommunizieren",
+        "Immer die längsten Erklärungen geben",
+        "Nur mit dem Teamleiter sprechen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Klare und respektvolle Kommunikation hilft, Missverständnisse zu vermeiden und fördert die Zusammenarbeit."
+    },
+    {
+      "question": "Was ist ein 'Brainstorming' im Team?",
+      "answers": [
+        "Wenn alle gleichzeitig schreien",
+        "Eine Methode, um gemeinsam viele Ideen zu sammeln",
+        "Eine Pause, um den Kopf frei zu bekommen",
+        "Ein Test, um das klügste Teammitglied zu finden"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Beim Brainstorming sammelt das Team gemeinsam viele Ideen, ohne sie sofort zu bewerten."
+    },
+    {
+      "question": "Warum ist Vertrauen im Team wichtig?",
+      "answers": [
+        "Es ist nicht wichtig",
+        "Damit man Geheimnisse teilen kann",
+        "Es ermöglicht effektive Zusammenarbeit und offene Kommunikation",
+        "Damit man Fehler auf andere schieben kann"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Vertrauen ist die Basis für effektive Zusammenarbeit, offene Kommunikation und gegenseitige Unterstützung."
+    },
+    {
+      "question": "Was bedeutet 'Synergie' im Team?",
+      "answers": [
+        "Wenn alle gleichzeitig krank werden",
+        "Wenn das Team zusammen mehr erreicht als die Einzelpersonen allein",
+        "Wenn alle die gleiche Meinung haben",
+        "Wenn man Energie spart"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Synergie bedeutet, dass das Team gemeinsam mehr erreichen kann als die Summe der Einzelleistungen."
+    },
+    {
+      "question": "Wie kann man ein neues Teammitglied unterstützen?",
+      "answers": [
+        "Es ignorieren, bis es sich eingewöhnt hat",
+        "Es mit schwierigen Aufgaben testen",
+        "Es vorstellen, einbeziehen und bei Fragen helfen",
+        "Ihm alle einfachen Aufgaben geben"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Neue Teammitglieder fühlen sich willkommen, wenn man sie vorstellt, einbezieht und ihnen bei Fragen hilft."
+    },
+    {
+      "question": "Was ist ein 'Teamritual'?",
+      "answers": [
+        "Eine geheime Zeremonie",
+        "Eine regelmäßige gemeinsame Aktivität, die das Team verbindet",
+        "Eine Bestrafung für schlechte Teamarbeit",
+        "Ein Wettbewerb im Team"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Teamrituale sind regelmäßige Aktivitäten wie gemeinsame Meetings oder Feiern, die den Zusammenhalt stärken."
+    },
+    {
+      "question": "Warum ist konstruktives Feedback im Team wichtig?",
+      "answers": [
+        "Um zu zeigen, wer der Boss ist",
+        "Es ist nicht wichtig",
+        "Um andere zu kritisieren",
+        "Um sich gegenseitig zu helfen, besser zu werden"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Konstruktives Feedback hilft allen Teammitgliedern, sich zu verbessern und gemeinsam zu wachsen."
+    },
+    {
+      "question": "Was ist ein 'Teamplayer'?",
+      "answers": [
+        "Jemand, der nur Mannschaftssport mag",
+        "Jemand, der gut mit anderen zusammenarbeitet und das Team unterstützt",
+        "Der Kapitän einer Sportmannschaft",
+        "Jemand, der alle Entscheidungen im Team trifft"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ein Teamplayer ist jemand, der gut mit anderen zusammenarbeitet und zum Erfolg des Teams beiträgt."
+    },
+    {
+      "question": "Was ist wichtiger für den Teamerfolg?",
+      "answers": [
+        "Dass jeder seine Arbeit alleine macht",
+        "Dass es einen klaren Anführer gibt",
+        "Dass alle zusammenarbeiten und sich gegenseitig unterstützen",
+        "Dass man besser ist als andere Teams"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Zusammenarbeit und gegenseitige Unterstützung sind entscheidend für den Erfolg eines Teams."
+    },
+    {
+      "question": "Wie kann man die Stimmung im Team verbessern?",
+      "answers": [
+        "Mehr Arbeit verteilen",
+        "Gemeinsame Aktivitäten und positive Kommunikation fördern",
+        "Strenge Regeln einführen",
+        "Die schwächeren Teammitglieder ausschließen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gemeinsame Aktivitäten, Anerkennung und positive Kommunikation verbessern die Teamstimmung."
+    },
+    {
+      "question": "Was ist ein 'Teamprojekt'?",
+      "answers": [
+        "Ein Projekt, das man alleine macht",
+        "Ein Projekt, bei dem jeder einen separaten Teil bearbeitet",
+        "Ein Projekt, das gemeinsam geplant und durchgeführt wird",
+        "Ein Wettbewerb zwischen verschiedenen Teams"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ein Teamprojekt wird gemeinsam geplant, durchgeführt und verantwortet."
+    },
+    {
+      "question": "Warum sind unterschiedliche Fähigkeiten im Team wichtig?",
+      "answers": [
+        "Sie sind nicht wichtig, alle sollten gleich sein",
+        "Damit man vergleichen kann, wer besser ist",
+        "Weil verschiedene Aufgaben verschiedene Fähigkeiten erfordern",
+        "Damit es mehr Wettbewerb gibt"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Unterschiedliche Fähigkeiten ergänzen sich und ermöglichen dem Team, vielfältige Aufgaben zu bewältigen."
+    },
+    {
+      "question": "Was bedeutet 'Teamdynamik'?",
+      "answers": [
+        "Wie schnell ein Team rennen kann",
+        "Die Art und Weise, wie Teammitglieder miteinander interagieren",
+        "Wie laut ein Team ist",
+        "Die Größe eines Teams"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Teamdynamik beschreibt, wie Teammitglieder miteinander interagieren und zusammenarbeiten."
+    },
+    {
+      "question": "Wie kann man Entscheidungen im Team fair treffen?",
+      "answers": [
+        "Der Chef entscheidet immer",
+        "Man würfelt",
+        "Durch Diskussion, Abstimmung oder Konsens",
+        "Der Älteste entscheidet"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Faire Teamentscheidungen werden durch offene Diskussion, Abstimmung oder Konsensbildung getroffen."
+    },
+    {
+      "question": "Was ist wichtig bei der Aufgabenverteilung im Team?",
+      "answers": [
+        "Die unbeliebten Aufgaben den Neuen geben",
+        "Alle machen alles gemeinsam",
+        "Aufgaben nach Fähigkeiten und Interessen fair verteilen",
+        "Die schwierigsten Aufgaben dem Teamleiter geben"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Eine faire Aufgabenverteilung berücksichtigt die Fähigkeiten und Interessen der Teammitglieder."
+    },
+    {
+      "question": "Was ist ein 'Teamziel'?",
+      "answers": [
+        "Ein Tor beim Fußball",
+        "Ein gemeinsames Ziel, das das Team zusammen erreichen will",
+        "Die Belohnung nach getaner Arbeit",
+        "Eine Aufgabe für ein einzelnes Teammitglied"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ein Teamziel ist ein gemeinsames Ziel, auf das alle Teammitglieder zusammen hinarbeiten."
+    },
+    {
+      "question": "Wie kann man Erfolge im Team feiern?",
+      "answers": [
+        "Gar nicht, man macht einfach weiter",
+        "Nur der Teamleiter wird gelobt",
+        "Gemeinsam den Erfolg anerkennen und wertschätzen",
+        "Einen Wettbewerb daraus machen, wer am meisten beigetragen hat"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Erfolge sollten gemeinsam gefeiert werden, wobei die Beiträge aller anerkannt werden."
+    },
+    {
+      "question": "Warum ist Zusammenarbeit wichtig?",
+      "answers": [
+        "Damit man weniger arbeiten muss",
+        "Weil man dann mehr Pausen machen kann",
+        "Weil man gemeinsam bessere Ideen entwickeln kann",
+        "Damit man nicht alleine die Schuld bekommt"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Durch Zusammenarbeit können wir unsere Ideen teilen und gemeinsam bessere Lösungen finden."
+    },
+    {
+      "question": "Was bedeutet T-Fox' Motto 'Leave no one behind'?",
+      "answers": [
+        "Man sollte immer der Letzte sein",
+        "Man sollte niemanden zurücklassen",
+        "Man sollte immer hinter den anderen bleiben",
+        "Man sollte sich nicht umdrehen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "T-Fox' Motto bedeutet, dass wir niemanden zurücklassen oder ausschließen sollten."
+    },
+    {
+      "question": "Was kann man tun, wenn jemand im Team Hilfe braucht?",
+      "answers": [
+        "So tun, als hätte man es nicht bemerkt",
+        "Sagen, dass man keine Zeit hat",
+        "Dem Teamleiter Bescheid geben, dass jemand zu langsam ist",
+        "Fragen, wie man helfen kann und Unterstützung anbieten"
+      ],
+      "correctAnswer": 3,
+      "explanation": "In einem guten Team bietet man Hilfe an, wenn jemand Unterstützung braucht."
+    },
+    {
+      "question": "Was ist eine gute Methode, um Konflikte im Team zu lösen?",
+      "answers": [
+        "Miteinander sprechen und gemeinsam eine Lösung finden",
+        "Den Konflikt ignorieren",
+        "Sich beim Lehrer beschweren",
+        "Nicht mehr mit der Person sprechen"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Konflikte löst man am besten durch Gespräche und gemeinsames Finden einer Lösung."
+    },
+    {
+      "question": "Was macht ein guter Teamleiter?",
+      "answers": [
+        "Er gibt allen Befehle und kontrolliert alles",
+        "Er macht die ganze Arbeit selbst",
+        "Er motiviert das Team und verteilt Aufgaben fair",
+        "Er bestraft diejenigen, die Fehler machen"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ein guter Teamleiter motiviert sein Team und sorgt dafür, dass die Aufgaben fair verteilt werden."
+    },
+    {
+      "question": "Warum ist es wichtig, Feedback im Team zu geben?",
+      "answers": [
+        "Um zu zeigen, wer der Boss ist",
+        "Um anderen zu sagen, was sie falsch machen",
+        "Um sich zu beschweren",
+        "Um sich gegenseitig zu helfen, besser zu werden"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Feedback hilft allen Teammitgliedern, sich zu verbessern und gemeinsam zu wachsen."
+    },
+    {
+      "question": "Was bedeutet 'Teamgeist'?",
+      "answers": [
+        "Ein Gespenst, das Teams heimsucht",
+        "Das Gefühl der Zusammengehörigkeit in einer Gruppe",
+        "Wenn man immer gewinnen will",
+        "Wenn man besser ist als die anderen im Team"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Teamgeist ist das Gefühl der Zusammengehörigkeit und des gemeinsamen Ziels in einer Gruppe."
+    },
+    {
+      "question": "Wie kann man neue Teammitglieder willkommen heißen?",
+      "answers": [
+        "Sie ignorieren, bis sie sich bewiesen haben",
+        "Ihnen die schwersten Aufgaben geben",
+        "Sie vorstellen, einbeziehen und ihnen helfen",
+        "Ihnen sagen, dass sie noch viel lernen müssen"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Neue Teammitglieder fühlen sich willkommen, wenn man sie vorstellt, einbezieht und ihnen hilft."
+    },
+    {
+      "question": "Was ist wichtiger in einem Team?",
+      "answers": [
+        "Dass einer alles bestimmt",
+        "Dass jeder seine Meinung sagen darf",
+        "Dass man immer gewinnt",
+        "Dass man keine Fehler macht"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In einem guten Team darf jeder seine Meinung äußern und wird gehört."
+    },
+    {
+      "question": "Wie kann man im Team Entscheidungen treffen?",
+      "answers": [
+        "Der Stärkste entscheidet immer",
+        "Man wirft eine Münze",
+        "Man diskutiert gemeinsam und findet einen Kompromiss",
+        "Man fragt immer den Lehrer"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Gute Teamentscheidungen werden durch Diskussion und Kompromisse getroffen."
+    },
+    {
+      "question": "Was sollte man tun, wenn man im Team einen Fehler gemacht hat?",
+      "answers": [
+        "Den Fehler verheimlichen",
+        "Jemand anderem die Schuld geben",
+        "Den Fehler zugeben und versuchen, ihn zu beheben",
+        "Das Team verlassen"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Es ist wichtig, zu seinen Fehlern zu stehen und gemeinsam nach Lösungen zu suchen."
+    },
+    {
+      "question": "Warum ist es wichtig, Aufgaben im Team zu verteilen?",
+      "answers": [
+        "Damit man selbst weniger arbeiten muss",
+        "Damit jeder seine Stärken einbringen kann",
+        "Damit man weiß, wen man beschuldigen kann",
+        "Damit der Chef weniger zu tun hat"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Durch die Verteilung von Aufgaben kann jeder seine Stärken einbringen und zum Erfolg beitragen."
+    },
+    {
+      "question": "Was bedeutet 'Verantwortung übernehmen' im Team?",
+      "answers": [
+        "Alle Aufgaben selbst erledigen",
+        "Die Schuld auf sich nehmen, wenn etwas schief geht",
+        "Für seine Aufgaben und Handlungen einstehen",
+        "Den anderen sagen, was sie tun sollen"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Verantwortung übernehmen bedeutet, für seine Aufgaben und Handlungen einzustehen."
+    },
+    {
+      "question": "Wie kann man ein Teammitglied motivieren, das traurig ist?",
+      "answers": [
+        "Ihm sagen, dass es sich zusammenreißen soll",
+        "Es ignorieren, bis es wieder fröhlich ist",
+        "Ihm zuhören und Unterstützung anbieten",
+        "Ihm mehr Arbeit geben, damit es abgelenkt ist"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Zuhören und Unterstützung anbieten sind gute Wege, um jemandem zu helfen, der traurig ist."
+    },
+    {
+      "question": "Was ist wichtig, wenn man in einem Team arbeitet?",
+      "answers": [
+        "Immer Recht haben wollen",
+        "Aufeinander hören und sich respektieren",
+        "Nur die eigenen Ideen durchsetzen",
+        "Andere kritisieren"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Respekt und Zuhören sind die Grundlagen für eine gute Teamarbeit."
+    },
+    {
+      "question": "Wie kann man zeigen, dass man ein guter Teamkamerad ist?",
+      "answers": [
+        "Anderen bei Problemen helfen",
+        "Immer der Beste sein wollen",
+        "Nur mit den Stärkeren zusammenarbeiten",
+        "Schwächere ausschließen"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ein guter Teamkamerad hilft anderen und schließt niemanden aus."
+    },
+    {
+      "question": "Was bedeutet es, 'fair' im Team zu sein?",
+      "answers": [
+        "Immer gewinnen wollen",
+        "Nur die leichten Aufgaben übernehmen",
+        "Alle gleich behandeln und gerecht sein",
+        "Sich die besten Sachen aussuchen"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Fairness bedeutet, alle gleich zu behandeln und gerecht zu handeln."
+    }
+  ]
+}

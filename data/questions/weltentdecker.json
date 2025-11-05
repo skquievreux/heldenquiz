@@ -1,0 +1,381 @@
+{
+  "category": "weltentdecker",
+  "displayName": "Weltentdecker",
+  "icon": "🌍",
+  "questions": [
+    {
+      "question": "Welches ist das größte Land der Erde?",
+      "answers": [
+        "China",
+        "USA",
+        "Russland",
+        "Kanada"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Russland ist mit über 17 Millionen Quadratkilometern das flächenmäßig größte Land der Erde."
+    },
+    {
+      "question": "Was ist ein 'Satellit'?",
+      "answers": [
+        "Ein kleiner Planet",
+        "Ein Objekt, das um einen Planeten kreist",
+        "Ein Stern",
+        "Ein Teleskop im Weltraum"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ein Satellit ist ein Objekt, das um einen Planeten oder anderen Himmelskörper kreist, wie der Mond um die Erde."
+    },
+    {
+      "question": "Welches ist der längste Fluss der Welt?",
+      "answers": [
+        "Amazonas",
+        "Nil",
+        "Mississippi",
+        "Rhein"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Der Nil in Afrika ist mit etwa 6.650 Kilometern der längste Fluss der Welt."
+    },
+    {
+      "question": "Was ist ein 'Tablet'?",
+      "answers": [
+        "Eine Medizin",
+        "Ein tragbarer Computer mit Touchscreen",
+        "Ein kleiner Tisch",
+        "Ein elektronisches Buch"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ein Tablet ist ein tragbarer Computer mit Touchscreen, der zwischen Smartphone und Laptop liegt."
+    },
+    {
+      "question": "Auf welchem Kontinent liegt Deutschland?",
+      "answers": [
+        "Asien",
+        "Afrika",
+        "Europa",
+        "Nordamerika"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Deutschland liegt in Mitteleuropa und ist Teil des europäischen Kontinents."
+    },
+    {
+      "question": "Was ist 'Künstliche Intelligenz'?",
+      "answers": [
+        "Ein Roboter mit menschlichem Aussehen",
+        "Computersysteme, die menschenähnliche Intelligenz zeigen können",
+        "Ein sehr kluger Mensch",
+        "Ein Computerspiel"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Künstliche Intelligenz bezeichnet Computersysteme, die Aufgaben ausführen können, die normalerweise menschliche Intelligenz erfordern."
+    },
+    {
+      "question": "Welches ist das kleinste Land der Welt?",
+      "answers": [
+        "Monaco",
+        "Liechtenstein",
+        "Vatikanstadt",
+        "San Marino"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Die Vatikanstadt ist mit nur etwa 0,44 Quadratkilometern das kleinste Land der Welt."
+    },
+    {
+      "question": "Was ist ein 'QR-Code'?",
+      "answers": [
+        "Ein geheimer Code für Spione",
+        "Ein zweidimensionaler Barcode, der Informationen enthält",
+        "Ein Code für Computerspiele",
+        "Eine neue Programmiersprache"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ein QR-Code ist ein quadratischer Barcode, der Informationen wie Weblinks oder Texte speichern kann."
+    },
+    {
+      "question": "Welches dieser Tiere lebt in der Antarktis?",
+      "answers": [
+        "Eisbär",
+        "Pinguin",
+        "Giraffe",
+        "Känguru"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pinguine leben in der Antarktis, während Eisbären nur in der Arktis (Nordpol) vorkommen."
+    },
+    {
+      "question": "Was ist 'Augmented Reality'?",
+      "answers": [
+        "Eine Brille mit Vergrößerungsgläsern",
+        "Eine Technologie, die digitale Inhalte in die reale Welt einblendet",
+        "Ein neuer Kinofilm",
+        "Eine Art von Fernglas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Augmented Reality (erweiterte Realität) ist eine Technologie, die digitale Inhalte in die reale Umgebung einblendet."
+    },
+    {
+      "question": "Welche Sprache wird in Japan gesprochen?",
+      "answers": [
+        "Chinesisch",
+        "Koreanisch",
+        "Japanisch",
+        "Englisch"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In Japan wird hauptsächlich Japanisch gesprochen."
+    },
+    {
+      "question": "Was ist ein 'Blog'?",
+      "answers": [
+        "Ein digitales Tagebuch oder eine Webseite mit regelmäßigen Einträgen",
+        "Ein Fehler in einem Computerprogramm",
+        "Ein kleines Buch",
+        "Ein Spielzeug"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ein Blog ist eine Webseite, auf der regelmäßig neue Beiträge veröffentlicht werden, ähnlich einem digitalen Tagebuch."
+    },
+    {
+      "question": "Welches ist das heißeste Land der Erde?",
+      "answers": [
+        "Australien",
+        "Brasilien",
+        "Mali",
+        "Libyen"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Libyen hat mit der höchsten jemals gemessenen Durchschnittstemperatur eines der heißesten Klimate der Erde."
+    },
+    {
+      "question": "Was ist 'Virtual Reality'?",
+      "answers": [
+        "Ein Traum",
+        "Eine computergenerierte Umgebung, in die man eintauchen kann",
+        "Ein Fernsehprogramm",
+        "Ein Fantasiebuch"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Virtual Reality ist eine computergenerierte Umgebung, in die Nutzer mit speziellen Brillen oder Headsets eintauchen können."
+    },
+    {
+      "question": "Welches Tier ist das Nationalsymbol von China?",
+      "answers": [
+        "Drache",
+        "Panda",
+        "Tiger",
+        "Adler"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Der Große Panda ist ein Nationalsymbol Chinas und wird weltweit mit dem Land assoziiert."
+    },
+    {
+      "question": "Was ist ein 'Podcast'?",
+      "answers": [
+        "Eine kleine Tasche",
+        "Eine digitale Audiodatei, die man herunterladen und anhören kann",
+        "Ein kleiner Computer",
+        "Ein Gerät zum Musikhören"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ein Podcast ist eine Serie von digitalen Audiodateien, die man abonnieren, herunterladen und anhören kann."
+    },
+    {
+      "question": "Welches ist der größte Ozean der Welt?",
+      "answers": [
+        "Atlantischer Ozean",
+        "Indischer Ozean",
+        "Pazifischer Ozean",
+        "Arktischer Ozean"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Der Pazifische Ozean ist mit etwa 166 Millionen Quadratkilometern der größte und tiefste Ozean der Erde."
+    },
+    {
+      "question": "Was ist 'Cloud Computing'?",
+      "answers": [
+        "Das Berechnen von Wolkenformen",
+        "Die Nutzung von Computerdiensten über das Internet",
+        "Ein Computerspiel über Wolken",
+        "Das Vorhersagen des Wetters"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cloud Computing bezeichnet die Bereitstellung von Computerdiensten wie Speicher oder Software über das Internet."
+    },
+    {
+      "question": "Welches Land hat die meisten Einwohner in Europa?",
+      "answers": [
+        "Deutschland",
+        "Frankreich",
+        "Russland",
+        "Großbritannien"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Russland ist das bevölkerungsreichste Land Europas, obwohl ein Teil des Landes in Asien liegt."
+    },
+    {
+      "question": "Was ist ein 'Emoji'?",
+      "answers": [
+        "Ein kleines Bild, das Gefühle oder Ideen darstellt",
+        "Eine japanische Comicfigur",
+        "Ein elektronisches Spielzeug",
+        "Eine Art von Handy"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Emojis sind kleine digitale Bilder oder Symbole, die verwendet werden, um Gefühle, Ideen oder Objekte darzustellen."
+    },
+    {
+      "question": "Welches dieser Tiere lebt NICHT in Afrika?",
+      "answers": [
+        "Löwe",
+        "Elefant",
+        "Känguru",
+        "Giraffe"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Kängurus leben in Australien, nicht in Afrika."
+    },
+    {
+      "question": "Was ist das Internet?",
+      "answers": [
+        "Ein großes Spinnennetz",
+        "Ein weltweites Netzwerk von Computern",
+        "Ein spezielles Fernsehprogramm",
+        "Eine App auf dem Smartphone"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Das Internet ist ein weltweites Netzwerk, das Computer miteinander verbindet."
+    },
+    {
+      "question": "Welche Sprache wird in Brasilien gesprochen?",
+      "answers": [
+        "Spanisch",
+        "Brasilianisch",
+        "Portugiesisch",
+        "Englisch"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In Brasilien wird hauptsächlich Portugiesisch gesprochen."
+    },
+    {
+      "question": "Was ist Robotik?",
+      "answers": [
+        "Eine Sportart mit Robotern",
+        "Ein Computerspiel",
+        "Die Wissenschaft und Technik, die sich mit Robotern beschäftigt",
+        "Eine Art von Musik"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Robotik ist die Wissenschaft und Technik, die sich mit dem Design, Bau und Einsatz von Robotern beschäftigt."
+    },
+    {
+      "question": "Welches ist der höchste Berg der Welt?",
+      "answers": [
+        "Mont Blanc",
+        "Kilimandscharo",
+        "Mount Everest",
+        "Matterhorn"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Der Mount Everest ist mit 8.848 Metern der höchste Berg der Welt."
+    },
+    {
+      "question": "Auf welchem Kontinent liegt Ägypten?",
+      "answers": [
+        "Asien",
+        "Europa",
+        "Afrika",
+        "Südamerika"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ägypten liegt im Nordosten von Afrika."
+    },
+    {
+      "question": "Was ist ein Smartphone?",
+      "answers": [
+        "Ein besonders kluges Telefon",
+        "Ein tragbarer Computer mit Telefonfunktion",
+        "Ein Telefon nur für schlaue Menschen",
+        "Ein Telefon, das nur in der Schule benutzt werden darf"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ein Smartphone ist ein tragbarer Computer mit Telefonfunktion, Internet und Apps."
+    },
+    {
+      "question": "Welches dieser Länder liegt NICHT in Europa?",
+      "answers": [
+        "Frankreich",
+        "Italien",
+        "Japan",
+        "Spanien"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Japan liegt in Asien, nicht in Europa."
+    },
+    {
+      "question": "Was ist ein Algorithmus?",
+      "answers": [
+        "Eine Krankheit",
+        "Ein Musikinstrument",
+        "Eine Schritt-für-Schritt-Anleitung zur Lösung eines Problems",
+        "Ein besonderes Tier"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ein Algorithmus ist eine genaue Schritt-für-Schritt-Anleitung, wie ein Problem gelöst werden kann."
+    },
+    {
+      "question": "Welches ist das bevölkerungsreichste Land der Welt?",
+      "answers": [
+        "Indien",
+        "USA",
+        "China",
+        "Russland"
+      ],
+      "correctAnswer": 2,
+      "explanation": "China ist mit über 1,4 Milliarden Menschen das bevölkerungsreichste Land der Welt."
+    },
+    {
+      "question": "Was ist eine App?",
+      "answers": [
+        "Ein kleines Programm für Smartphones oder Tablets",
+        "Ein besonderes Spielzeug",
+        "Eine Art von Süßigkeit",
+        "Ein Haustier"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Eine App (Applikation) ist ein Programm, das auf Smartphones oder Tablets installiert werden kann."
+    },
+    {
+      "question": "Welches Tier ist das Symbol von Australien?",
+      "answers": [
+        "Koala",
+        "Känguru",
+        "Krokodil",
+        "Komodowaran"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Das Känguru ist ein Symbol Australiens und erscheint auch im Wappen des Landes."
+    },
+    {
+      "question": "Was ist ein 3D-Drucker?",
+      "answers": [
+        "Ein Drucker, der besonders schnell druckt",
+        "Ein Gerät, das dreidimensionale Objekte herstellen kann",
+        "Ein Drucker, der nur Fotos drucken kann",
+        "Ein Drucker für drei Personen gleichzeitig"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ein 3D-Drucker kann dreidimensionale Objekte Schicht für Schicht aufbauen."
+    },
+    {
+      "question": "Welches dieser Tiere lebt im Meer?",
+      "answers": [
+        "Elefant",
+        "Giraffe",
+        "Delfin",
+        "Löwe"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Delfine sind Meeressäugetiere, die in Ozeanen und Meeren leben."
+    }
+  ]
+}

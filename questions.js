@@ -1579,4 +1579,4 @@ const quizQuestions = {
             explanation: "Um neue Freunde zu finden, hilft es, offen zu sein, auf andere zuzugehen und gemeinsame Interessen zu teilen."
         }
     ]
-};
+};module.exports = quizQuestions;

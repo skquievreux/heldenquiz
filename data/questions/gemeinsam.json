@@ -1,0 +1,381 @@
+{
+  "category": "gemeinsam",
+  "displayName": "Gemeinsam stark",
+  "icon": "🛡️",
+  "questions": [
+    {
+      "question": "Was bedeutet Inklusion?",
+      "answers": [
+        "Wenn alle ausgeschlossen werden",
+        "Wenn alle einbezogen werden, unabhängig von ihren Unterschieden",
+        "Wenn man alleine arbeitet",
+        "Wenn man nur mit seinen Freunden spielt"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Inklusion bedeutet, dass alle Menschen einbezogen werden, unabhängig von ihren Unterschieden."
+    },
+    {
+      "question": "Was ist 'Zivilcourage'?",
+      "answers": [
+        "Eine besondere Schuluniform",
+        "Mut, für andere einzustehen und bei Unrecht einzugreifen",
+        "Eine Sportart",
+        "Ein Feiertag"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Zivilcourage bedeutet, Mut zu zeigen und für andere einzustehen, wenn ihnen Unrecht geschieht."
+    },
+    {
+      "question": "Was bedeutet 'Diversität'?",
+      "answers": [
+        "Wenn alle gleich sind",
+        "Vielfalt und Unterschiedlichkeit in einer Gruppe",
+        "Eine Sportart",
+        "Ein besonderes Fest"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Diversität bedeutet Vielfalt und bezieht sich auf die Unterschiedlichkeit von Menschen in einer Gruppe."
+    },
+    {
+      "question": "Warum ist es wichtig, anderen zuzuhören?",
+      "answers": [
+        "Es ist nicht wichtig",
+        "Damit man später mitreden kann",
+        "Um andere Menschen und ihre Perspektiven zu verstehen",
+        "Weil es höflich ist"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Zuhören hilft uns, andere Menschen und ihre Perspektiven zu verstehen und zu respektieren."
+    },
+    {
+      "question": "Was ist ein 'Vorurteil'?",
+      "answers": [
+        "Eine Meinung über jemanden, bevor man ihn kennengelernt hat",
+        "Ein besonders gutes Urteil",
+        "Eine Gerichtsverhandlung",
+        "Ein Kompliment"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ein Vorurteil ist eine vorgefasste Meinung über eine Person oder Gruppe, ohne sie wirklich zu kennen."
+    },
+    {
+      "question": "Was kann man tun, wenn man sieht, dass jemand unfair behandelt wird?",
+      "answers": [
+        "Wegsehen, es ist nicht mein Problem",
+        "Mitmachen, um nicht selbst unfair behandelt zu werden",
+        "Eingreifen und der Person helfen",
+        "Darüber lachen"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Wenn jemand unfair behandelt wird, sollte man eingreifen und der Person helfen oder Unterstützung holen."
+    },
+    {
+      "question": "Was bedeutet es, 'offen für Neues' zu sein?",
+      "answers": [
+        "Immer die Tür offen zu lassen",
+        "Bereit sein, neue Dinge, Menschen und Ideen kennenzulernen",
+        "Viele Geschenke zu bekommen",
+        "Immer draußen zu spielen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Offen für Neues zu sein bedeutet, bereit zu sein, neue Erfahrungen zu machen und verschiedene Menschen und Ideen kennenzulernen."
+    },
+    {
+      "question": "Warum ist es wichtig, 'Nein' sagen zu können?",
+      "answers": [
+        "Um immer seinen Willen durchzusetzen",
+        "Es ist nicht wichtig",
+        "Um seine eigenen Grenzen zu schützen",
+        "Um andere zu ärgern"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Nein' sagen zu können ist wichtig, um die eigenen Grenzen zu schützen und selbstbestimmt zu handeln."
+    },
+    {
+      "question": "Was ist 'Diskriminierung'?",
+      "answers": [
+        "Eine besondere Auszeichnung",
+        "Die ungerechte Behandlung von Menschen aufgrund bestimmter Merkmale",
+        "Eine Sportart",
+        "Ein Spiel"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Diskriminierung ist die ungerechte Behandlung von Menschen aufgrund von Merkmalen wie Herkunft, Geschlecht oder Religion."
+    },
+    {
+      "question": "Was bedeutet 'Kompromiss'?",
+      "answers": [
+        "Wenn einer immer gewinnt",
+        "Eine Einigung, bei der beide Seiten etwas nachgeben",
+        "Ein besonderes Geschenk",
+        "Wenn man immer nachgibt"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ein Kompromiss ist eine Lösung, bei der beide Seiten etwas nachgeben, um zu einer gemeinsamen Einigung zu kommen."
+    },
+    {
+      "question": "Warum ist es wichtig, sich für andere einzusetzen?",
+      "answers": [
+        "Es ist nicht wichtig",
+        "Damit man beliebt ist",
+        "Um eine gerechte und unterstützende Gemeinschaft zu schaffen",
+        "Um Belohnungen zu bekommen"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sich für andere einzusetzen hilft, eine gerechte und unterstützende Gemeinschaft zu schaffen, in der alle respektiert werden."
+    },
+    {
+      "question": "Was bedeutet 'Solidarität'?",
+      "answers": [
+        "Alleine zu sein",
+        "Zusammenhalt und gegenseitige Unterstützung in einer Gruppe",
+        "Ein besonderes Fest",
+        "Eine Sportart"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Solidarität bedeutet Zusammenhalt und gegenseitige Unterstützung innerhalb einer Gruppe oder Gemeinschaft."
+    },
+    {
+      "question": "Was kann man tun, um neue Kulturen kennenzulernen?",
+      "answers": [
+        "Nichts, das ist nicht interessant",
+        "Bücher lesen, Menschen treffen, Essen probieren und Feste feiern",
+        "Nur im Urlaub",
+        "Fernsehen schauen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Man kann neue Kulturen kennenlernen, indem man Bücher liest, Menschen aus anderen Kulturen trifft, verschiedenes Essen probiert und an kulturellen Festen teilnimmt."
+    },
+    {
+      "question": "Was ist 'Gleichberechtigung'?",
+      "answers": [
+        "Wenn alle immer das Gleiche bekommen",
+        "Wenn alle die gleichen Rechte und Chancen haben",
+        "Wenn alle gleich aussehen",
+        "Wenn alle gleich denken"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gleichberechtigung bedeutet, dass alle Menschen die gleichen Rechte und Chancen haben, unabhängig von ihren Unterschieden."
+    },
+    {
+      "question": "Warum ist es wichtig, Konflikte friedlich zu lösen?",
+      "answers": [
+        "Es ist nicht wichtig",
+        "Damit man nicht bestraft wird",
+        "Um Beziehungen zu erhalten und gemeinsam Lösungen zu finden",
+        "Um immer zu gewinnen"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Friedliche Konfliktlösung hilft, Beziehungen zu erhalten und gemeinsam Lösungen zu finden, die für alle akzeptabel sind."
+    },
+    {
+      "question": "Was bedeutet 'Mitgefühl'?",
+      "answers": [
+        "Wenn man mit jemandem zusammen fühlt",
+        "Die Fähigkeit, die Gefühle anderer zu verstehen und Anteil zu nehmen",
+        "Wenn man immer traurig ist",
+        "Wenn man seine Gefühle versteckt"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mitgefühl ist die Fähigkeit, die Gefühle anderer zu verstehen und Anteil an ihrem Leid oder ihrer Freude zu nehmen."
+    },
+    {
+      "question": "Was kann man tun, um ein guter Zuhörer zu sein?",
+      "answers": [
+        "Immer unterbrechen und die eigene Meinung sagen",
+        "Aufmerksam sein, Blickkontakt halten und nachfragen",
+        "Nebenbei etwas anderes machen",
+        "So tun, als würde man zuhören"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ein guter Zuhörer ist aufmerksam, hält Blickkontakt, unterbricht nicht und stellt Fragen, um das Gesagte besser zu verstehen."
+    },
+    {
+      "question": "Was ist 'Teamwork'?",
+      "answers": [
+        "Wenn einer die ganze Arbeit macht",
+        "Zusammenarbeit, bei der alle zum gemeinsamen Ziel beitragen",
+        "Ein Computerspiel",
+        "Wenn man alleine arbeitet"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Teamwork bedeutet, dass alle zusammenarbeiten und ihre Stärken einbringen, um ein gemeinsames Ziel zu erreichen."
+    },
+    {
+      "question": "Warum ist es wichtig, 'Danke' zu sagen?",
+      "answers": [
+        "Es ist nicht wichtig",
+        "Weil es eine Regel ist",
+        "Um Wertschätzung und Dankbarkeit auszudrücken",
+        "Damit man mehr Geschenke bekommt"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Danke' zu sagen drückt Wertschätzung und Dankbarkeit aus und stärkt positive Beziehungen."
+    },
+    {
+      "question": "Was bedeutet 'Verantwortung'?",
+      "answers": [
+        "Wenn man für etwas oder jemanden sorgt und die Folgen seiner Handlungen trägt",
+        "Wenn man immer bestraft wird",
+        "Wenn man keine Freiheit hat",
+        "Wenn man tun kann, was man will"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Verantwortung bedeutet, für etwas oder jemanden zu sorgen und die Folgen der eigenen Handlungen zu tragen."
+    },
+    {
+      "question": "Warum ist Vielfalt in einer Gruppe wichtig?",
+      "answers": [
+        "Sie ist nicht wichtig",
+        "Damit es mehr Streit gibt",
+        "Weil unterschiedliche Menschen unterschiedliche Stärken und Ideen haben",
+        "Damit man mehr Leute kennenlernt"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Vielfalt bringt unterschiedliche Perspektiven, Stärken und Ideen in eine Gruppe."
+    },
+    {
+      "question": "Was kann man tun, wenn jemand ausgeschlossen wird?",
+      "answers": [
+        "Nichts, das ist nicht mein Problem",
+        "Mitmachen beim Ausschließen",
+        "Die Person einladen, mitzumachen und sie unterstützen",
+        "Der Lehrerin sagen, sie soll etwas tun"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Wenn jemand ausgeschlossen wird, sollte man aktiv werden und die Person einbeziehen."
+    },
+    {
+      "question": "Was bedeutet Barrierefreiheit?",
+      "answers": [
+        "Dass es keine Zäune gibt",
+        "Dass alle Menschen Zugang zu Orten, Informationen und Aktivitäten haben",
+        "Dass man überall kostenlos hinein darf",
+        "Dass es keine Türen gibt"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Barrierefreiheit bedeutet, dass alle Menschen Zugang zu Orten, Informationen und Aktivitäten haben."
+    },
+    {
+      "question": "Wie kann man jemandem helfen, der eine andere Sprache spricht?",
+      "answers": [
+        "Langsam und deutlich sprechen und Gesten benutzen",
+        "Lauter sprechen",
+        "Die Person ignorieren",
+        "In einer anderen Sprache antworten"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Langsames und deutliches Sprechen sowie Gesten können helfen, Sprachbarrieren zu überwinden."
+    },
+    {
+      "question": "Was bedeutet Respekt?",
+      "answers": [
+        "Angst vor jemandem haben",
+        "Jemanden bewundern und seine Grenzen achten",
+        "Jemanden ignorieren",
+        "Jemandem immer Recht geben"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Respekt bedeutet, andere zu achten, ihre Grenzen zu respektieren und sie wertzuschätzen."
+    },
+    {
+      "question": "Was kann man tun, wenn jemand gemobbt wird?",
+      "answers": [
+        "Mitmachen, um nicht selbst gemobbt zu werden",
+        "Wegsehen und so tun, als hätte man nichts bemerkt",
+        "Eingreifen, die Person unterstützen und Hilfe holen",
+        "Darüber lachen, weil es lustig ist"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bei Mobbing sollte man eingreifen, die betroffene Person unterstützen und bei Bedarf Hilfe holen."
+    },
+    {
+      "question": "Was ist Empathie?",
+      "answers": [
+        "Eine Krankheit",
+        "Die Fähigkeit, sich in andere hineinzuversetzen",
+        "Wenn man immer wütend ist",
+        "Wenn man sehr stark ist"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Empathie ist die Fähigkeit, sich in andere hineinzuversetzen und ihre Gefühle zu verstehen."
+    },
+    {
+      "question": "Warum ist es wichtig, 'Danke' und 'Bitte' zu sagen?",
+      "answers": [
+        "Weil es eine Regel ist",
+        "Weil man sonst bestraft wird",
+        "Um höflich zu sein und Wertschätzung zu zeigen",
+        "Weil es die Erwachsenen wollen"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Danke' und 'Bitte' zu sagen zeigt Höflichkeit und Wertschätzung gegenüber anderen."
+    },
+    {
+      "question": "Was bedeutet 'fair play'?",
+      "answers": [
+        "Immer gewinnen",
+        "Nach den Regeln spielen und andere respektieren",
+        "Besser spielen als die anderen",
+        "Nur mit den besten Spielern spielen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Fair play' bedeutet, nach den Regeln zu spielen, andere zu respektieren und sportlich zu sein."
+    },
+    {
+      "question": "Was kann man tun, wenn jemand traurig ist?",
+      "answers": [
+        "Die Person ignorieren",
+        "Der Person sagen, sie soll nicht traurig sein",
+        "Zuhören und fragen, wie man helfen kann",
+        "So tun, als wäre nichts"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Wenn jemand traurig ist, hilft es, zuzuhören und Unterstützung anzubieten."
+    },
+    {
+      "question": "Was bedeutet 'Toleranz'?",
+      "answers": [
+        "Andere Menschen nicht mögen",
+        "Andere Meinungen und Lebensweisen akzeptieren",
+        "Alles erlauben, auch wenn es falsch ist",
+        "Immer nachgeben"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Toleranz bedeutet, andere Meinungen, Überzeugungen und Lebensweisen zu akzeptieren, auch wenn sie sich von den eigenen unterscheiden."
+    },
+    {
+      "question": "Warum ist es wichtig, Regeln zu haben?",
+      "answers": [
+        "Damit Erwachsene Kinder kontrollieren können",
+        "Damit das Zusammenleben fair und sicher ist",
+        "Damit man bestraft werden kann",
+        "Regeln sind nicht wichtig"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Regeln sorgen dafür, dass das Zusammenleben fair, sicher und geordnet abläuft."
+    },
+    {
+      "question": "Was bedeutet 'Freundschaft'?",
+      "answers": [
+        "Wenn man jemanden mag, weil er Spielzeug hat",
+        "Eine Beziehung, die auf gegenseitigem Vertrauen und Respekt basiert",
+        "Wenn man immer zusammen ist",
+        "Wenn man jemandem Geschenke macht"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Freundschaft ist eine Beziehung, die auf gegenseitigem Vertrauen, Respekt und Zuneigung basiert."
+    },
+    {
+      "question": "Was kann man tun, um neue Freunde zu finden?",
+      "answers": [
+        "Zu Hause bleiben und warten",
+        "Anderen Geschenke geben",
+        "Offen sein, andere ansprechen und gemeinsame Interessen teilen",
+        "So tun, als wäre man jemand anderes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Um neue Freunde zu finden, hilft es, offen zu sein, auf andere zuzugehen und gemeinsame Interessen zu teilen."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "questionsPerQuiz": 5,
+  "badgeThresholds": {
+    "gold": 80,
+    "silver": 60,
+    "bronze": 40
+  },
+  "foxReactions": {
+    "greeting": "Willkommen bei meinem Quiz! Wähle eine Kategorie und lass uns starten!",
+    "correct": [
+      "Super gemacht! Das ist richtig!",
+      "Toll! Du kennst dich wirklich aus!",
+      "Richtig! Du bist auf dem besten Weg, ein Techero zu werden!",
+      "Ja, das stimmt! Weiter so!",
+      "Perfekt! Das ist die richtige Antwort!"
+    ],
+    "incorrect": [
+      "Das ist leider nicht richtig. Aber keine Sorge, wir lernen alle dazu!",
+      "Hmm, nicht ganz. Schau dir die richtige Antwort an!",
+      "Fast! Aber die richtige Antwort ist eine andere.",
+      "Das ist nicht korrekt, aber du lernst bestimmt etwas Neues!",
+      "Nicht richtig, aber das ist okay! Jeder Fehler ist eine Chance zu lernen."
+    ],
+    "resultGreat": "Wow! Du bist ein echter Techero! Fantastische Leistung!",
+    "resultGood": "Gut gemacht! Du bist auf dem besten Weg, ein Techero zu werden!",
+    "resultOkay": "Nicht schlecht! Mit etwas Übung wirst du noch besser!",
+    "resultPoor": "Das war ein guter Anfang! Versuche es noch einmal und du wirst besser werden!"
+  },
+  "categories": [
+    {
+      "id": "teamhelden",
+      "displayName": "Teamhelden",
+      "icon": "🦊",
+      "description": "Fragen zu Teamarbeit, Zusammenhalt und Freundschaft"
+    },
+    {
+      "id": "kreativ",
+      "displayName": "Kreativ-Ecke",
+      "icon": "🎨",
+      "description": "Fragen zu Kunst, Kreativität und Problemlösung"
+    },
+    {
+      "id": "weltentdecker",
+      "displayName": "Weltentdecker",
+      "icon": "🌍",
+      "description": "Fragen zu verschiedenen Ländern, Kulturen und Technologien"
+    },
+    {
+      "id": "gemeinsam",
+      "displayName": "Gemeinsam stark",
+      "icon": "🛡️",
+      "description": "Fragen zu Inklusion, Vielfalt und wie man füreinander da sein kann"
+    }
+  ],
+  "timings": {
+    "answerFeedbackDelay": 1500,
+    "explanationDuration": 3000
+  }
+}

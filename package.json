@@ -1,15 +1,36 @@
 {
-  "name": "t-fox-quiz",
-  "version": "1.0.0",
-  "description": "T-Fox' Techero-Quiz - Ein interaktives Quiz für Kinder",
-  "main": "index.html",
+  "name": "t-fox-techero-quiz",
+  "version": "1.1.0",
+  "description": "T-Fox' Techero-Quiz - Ein interaktives, modulares Quiz für Kinder",
+  "type": "module",
+  "main": "src/app.js",
   "scripts": {
-    "start": "npx serve . -l 8080"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "vite",
+    "serve": "vite preview --port 8080"
   },
-  "dependencies": {
-    "serve": "^14.2.1"
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "^5.0.0"
   },
-  "keywords": ["quiz", "education", "children", "t-fox"],
+  "keywords": [
+    "quiz",
+    "education",
+    "children",
+    "t-fox",
+    "interactive",
+    "learning",
+    "techero"
+  ],
   "author": "T-Fox Team",
-  "license": "MIT"
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skquievreux/heldenquiz.git"
+  }
 }

@@ -9,7 +9,7 @@
       }
     },
     {
-      "src": "api/**/*.js",
+      "src": "api/generate-questions.js",
       "use": "@vercel/node"
     }
    ],

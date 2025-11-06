@@ -20,6 +20,12 @@ und dieses Projekt folgt [Semantic Versioning](https://semver.org/lang/de/).
 ### Entfernt
 - Fly.io Konfigurationsdateien (Dockerfile, fly.toml)
 
+## [1.1.1] - 2025-11-06
+
+### Hinzugefügt
+- Versionsanzeige im Footer der Startseite
+- Versionsinformation in der Browser-Console beim Laden
+
 ## [1.2.0] - 2025-01-05
 
 ### Hinzugefügt

@@ -7,20 +7,17 @@
       "config": {
         "distDir": "dist"
       }
-    },
-    {
-      "src": "api/generate-questions.js",
-      "use": "@vercel/node"
     }
   ],
   "routes": [
     {
-      "src": "/api/generate-questions",
-      "dest": "/api/generate-questions"
-    },
-    {
       "src": "/(.*)",
       "dest": "/index.html"
     }
-  ]
+  ],
+  "functions": {
+    "api/generate-questions.js": {
+      "runtime": "nodejs18.x"
+    }
+  }
 }

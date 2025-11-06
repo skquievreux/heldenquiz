@@ -4,7 +4,7 @@
  */
 
 export class QuestionLoader {
-  constructor(basePath = './data/questions') {
+  constructor(basePath = '/data/questions') {
     this.basePath = basePath;
     this.cache = new Map();
   }

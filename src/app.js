@@ -3,12 +3,12 @@
  * Version 1.1.0
  */
 
-const APP_VERSION = '1.1.0';
-
 import { QuestionLoader } from './modules/QuestionLoader.js';
 import { QuizState } from './modules/QuizState.js';
 import { FoxController } from './modules/FoxController.js';
 import { QuizRenderer } from './modules/QuizRenderer.js';
+
+const VERSION = '1.1.1';
 
 class TecheroQuiz {
   constructor() {
@@ -25,8 +25,6 @@ class TecheroQuiz {
    */
   async init() {
     try {
-      console.log(`🚀 T-Fox Techero-Quiz v${APP_VERSION} wird gestartet...`);
-
       // Lade Konfiguration
       await this.loadConfig();
 
@@ -52,14 +50,18 @@ class TecheroQuiz {
       // Zeige Begrüßung
       this.foxController.showGreeting();
 
-      // Rendere Kategorieauswahl
-      this.renderer.renderCategorySelection(
-        this.categoryMetadata,
-        (category) => this.startQuiz(category)
-      );
+       // Rendere Kategorieauswahl
+       this.renderer.renderCategorySelection(
+         this.categoryMetadata,
+         (category) => this.startQuiz(category)
+       );
 
-      console.log(`✓ T-Fox Techero-Quiz v${APP_VERSION} erfolgreich initialisiert!`);
-    } catch (error) {
+       // Version anzeigen
+       const versionEl = document.getElementById('version');
+       if (versionEl) versionEl.textContent = VERSION;
+
+       console.log(`✓ T-Fox Techero-Quiz v${VERSION} erfolgreich initialisiert!`);
+     } catch (error) {
       console.error('Fehler bei der Initialisierung:', error);
       this.renderer.showError('Das Quiz konnte nicht geladen werden.');
     }
@@ -70,7 +72,7 @@ class TecheroQuiz {
    */
   async loadConfig() {
     try {
-      const response = await fetch('/src/config.json');
+      const response = await fetch('/config.json');
       if (!response.ok) {
         throw new Error('Config konnte nicht geladen werden');
       }

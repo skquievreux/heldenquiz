@@ -21,7 +21,7 @@ export class QuestionLoader {
     }
 
     try {
-      const response = await fetch(`${this.basePath}/${category}.json`, { cache: 'no-cache' });
+      const response = await fetch(`${this.basePath}/${category}.json`);
       if (!response.ok) {
         throw new Error(`Failed to load category: ${category}`);
       }

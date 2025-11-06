@@ -58,8 +58,8 @@ async function generateQuestions() {
     previewSection.classList.add('hidden');
 
     try {
-        // API-Anfrage an lokalen Server (für Entwicklung)
-        const response = await fetch('http://localhost:3001/api/generate-questions', {
+        // API-Anfrage an Vercel Serverless Function
+        const response = await fetch('/api/generate-questions', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',

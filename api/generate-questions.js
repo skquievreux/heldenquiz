@@ -2,7 +2,6 @@
 // Verwendet Anthropic Claude API
 
 const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
-const fetch = require('node-fetch').default || require('node-fetch');
 const ANTHROPIC_API_URL = 'https://api.anthropic.com/v1/messages';
 const CLAUDE_MODEL = 'claude-3-5-sonnet-20241022';
 
@@ -21,7 +20,7 @@ const difficultyLevels = {
     schwer: '10-12 Jahre alt, fortgeschrittene Konzepte, erfordert mehr Nachdenken'
 };
 
-module.exports = async function handler(req, res) {
+export default async function handler(req, res) {
     // CORS Headers
     res.setHeader('Access-Control-Allow-Credentials', true);
     res.setHeader('Access-Control-Allow-Origin', '*');
@@ -63,23 +62,6 @@ module.exports = async function handler(req, res) {
 
         // Claude API aufrufen
         const response = await fetch(ANTHROPIC_API_URL, {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json',
-                'x-api-key': ANTHROPIC_API_KEY,
-                'anthropic-version': '2023-06-01'
-            },
-            body: JSON.stringify({
-                model: CLAUDE_MODEL,
-                max_tokens: 4096,
-                messages: [
-                    {
-                        role: 'user',
-                        content: prompt
-                    }
-                ]
-            })
-        });
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',

@@ -1,6 +1,6 @@
 {
   "name": "t-fox-techero-quiz",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "T-Fox' Techero-Quiz - Ein interaktives, modulares Quiz für Kinder",
   "type": "module",
   "main": "src/app.js",
@@ -9,15 +9,9 @@
     "build": "vite build",
     "preview": "vite preview",
     "start": "vite",
-    "serve": "vite preview --port 8080",
-    "api": "node local-api-server.js"
+    "serve": "vite preview --port 8080"
   },
-  "dependencies": {
-    "cors": "^2.8.5",
-    "dotenv": "^17.2.3",
-    "express": "^5.1.0",
-    "node-fetch": "^3.3.2"
-  },
+  "dependencies": {},
   "devDependencies": {
     "vite": "^5.0.0"
   },

@@ -3,6 +3,8 @@
  * Version 1.1.0
  */
 
+const APP_VERSION = '1.1.0';
+
 import { QuestionLoader } from './modules/QuestionLoader.js';
 import { QuizState } from './modules/QuizState.js';
 import { FoxController } from './modules/FoxController.js';
@@ -23,6 +25,8 @@ class TecheroQuiz {
    */
   async init() {
     try {
+      console.log(`🚀 T-Fox Techero-Quiz v${APP_VERSION} wird gestartet...`);
+
       // Lade Konfiguration
       await this.loadConfig();
 
@@ -54,7 +58,7 @@ class TecheroQuiz {
         (category) => this.startQuiz(category)
       );
 
-      console.log('✓ T-Fox Techero-Quiz erfolgreich initialisiert!');
+      console.log(`✓ T-Fox Techero-Quiz v${APP_VERSION} erfolgreich initialisiert!`);
     } catch (error) {
       console.error('Fehler bei der Initialisierung:', error);
       this.renderer.showError('Das Quiz konnte nicht geladen werden.');

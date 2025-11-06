@@ -29,7 +29,16 @@
       "headers": [
         {
           "key": "Content-Type",
-          "value": "text/javascript"
+          "value": "application/javascript"
+        }
+      ]
+    },
+    {
+      "source": "/assets/*.css",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "text/css"
         }
       ]
     }

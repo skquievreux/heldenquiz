@@ -66,7 +66,7 @@ class TecheroQuiz {
    */
   async loadConfig() {
     try {
-      const response = await fetch('/src/config.json');
+      const response = await fetch('./src/config.json');
       if (!response.ok) {
         throw new Error('Config konnte nicht geladen werden');
       }

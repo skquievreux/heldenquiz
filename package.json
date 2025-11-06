@@ -9,9 +9,14 @@
     "build": "vite build",
     "preview": "vite preview",
     "start": "vite",
-    "serve": "vite preview --port 8080"
+    "serve": "vite preview --port 8080",
+    "api": "node local-api-server.js"
   },
-  "dependencies": {},
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  },
   "devDependencies": {
     "vite": "^5.0.0"
   },

@@ -4,7 +4,7 @@
  */
 
 export class QuestionLoader {
-  constructor(basePath = '/data/questions') {
+  constructor(basePath = './data/questions') {
     this.basePath = basePath;
     this.cache = new Map();
   }
@@ -21,7 +21,7 @@ export class QuestionLoader {
     }
 
     try {
-      const response = await fetch(`${this.basePath}/${category}.json`);
+      const response = await fetch(`${this.basePath}/${category}.json`, { cache: 'no-cache' });
       if (!response.ok) {
         throw new Error(`Failed to load category: ${category}`);
       }

@@ -1,5 +1,5 @@
 /**
- * T-Fox Techero-Quiz - Hauptanwendung
+ * ...Steffen T-Fox Techero-Quiz - Hauptanwendung
  * Version 1.1.0
  */
 
@@ -7,8 +7,8 @@ import { QuestionLoader } from './modules/QuestionLoader.js';
 import { QuizState } from './modules/QuizState.js';
 import { FoxController } from './modules/FoxController.js';
 import { QuizRenderer } from './modules/QuizRenderer.js';
-
-const VERSION = '1.1.1';
+import { versionManager } from './modules/VersionManager.js';
+import { changelogViewer } from './modules/ChangelogViewer.js';
 
 class TecheroQuiz {
   constructor() {
@@ -44,11 +44,14 @@ class TecheroQuiz {
       // Lade Kategorie-Metadaten
       this.categoryMetadata = await this.questionLoader.getCategoryMetadata();
 
-      // Setup Event Listeners
-      this.setupEventListeners();
+       // Setup Event Listeners
+       this.setupEventListeners();
 
-      // Zeige Begrüßung
-      this.foxController.showGreeting();
+       // Cache-Busting für Bilder anwenden
+       await versionManager.applyImageCacheBusting();
+
+       // Zeige Begrüßung
+       this.foxController.showGreeting();
 
        // Rendere Kategorieauswahl
        this.renderer.renderCategorySelection(
@@ -57,10 +60,14 @@ class TecheroQuiz {
        );
 
        // Version anzeigen
-       const versionEl = document.getElementById('version');
-       if (versionEl) versionEl.textContent = VERSION;
+        const versionEl = document.getElementById('version');
+        if (versionEl) {
+          const version = await versionManager.getVersion();
+          versionEl.textContent = version;
+        }
 
-       console.log(`✓ T-Fox Techero-Quiz v${VERSION} erfolgreich initialisiert!`);
+        const version = await versionManager.getVersion();
+        console.log(`✓ ...Steffen T-Fox Techero-Quiz v${version} erfolgreich initialisiert!`);
      } catch (error) {
       console.error('Fehler bei der Initialisierung:', error);
       this.renderer.showError('Das Quiz konnte nicht geladen werden.');
@@ -88,16 +95,22 @@ class TecheroQuiz {
     }
   }
 
-  /**
-   * Setup Event Listeners
-   */
-  setupEventListeners() {
-    // Restart-Button
-    const restartButton = document.getElementById('restart-btn');
-    if (restartButton) {
-      restartButton.addEventListener('click', () => this.restartQuiz());
-    }
-  }
+   /**
+    * Setup Event Listeners
+    */
+   setupEventListeners() {
+     // Restart-Button
+     const restartButton = document.getElementById('restart-btn');
+     if (restartButton) {
+       restartButton.addEventListener('click', () => this.restartQuiz());
+     }
+
+     // Versionshistorie-Button
+     const changelogButton = document.getElementById('changelog-btn');
+     if (changelogButton) {
+       changelogButton.addEventListener('click', () => this.showChangelog());
+     }
+   }
 
   /**
    * Startet ein neues Quiz
@@ -220,14 +233,26 @@ class TecheroQuiz {
     }
   }
 
-  /**
-   * Startet das Quiz neu
-   */
-  restartQuiz() {
-    this.quizState.reset();
-    this.foxController.reset();
-    this.renderer.reset();
-  }
+   /**
+    * Startet das Quiz neu
+    */
+   restartQuiz() {
+     this.quizState.reset();
+     this.foxController.reset();
+     this.renderer.reset();
+   }
+
+   /**
+    * Zeigt die Versionshistorie an
+    */
+   async showChangelog() {
+     try {
+       await changelogViewer.showModal();
+     } catch (error) {
+       console.error('Fehler beim Anzeigen der Versionshistorie:', error);
+       alert('Versionshistorie konnte nicht geladen werden.');
+     }
+   }
 }
 
 // Exportiere für globalen Zugriff

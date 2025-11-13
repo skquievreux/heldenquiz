@@ -1,6 +1,6 @@
 # Beitragsrichtlinien
 
-Vielen Dank für dein Interesse, zum T-Fox Techero-Quiz beizutragen! 🦊
+Vielen Dank für dein Interesse, zum ...Steffen T-Fox Techero-Quiz beizutragen! 🦊
 
 ## 📋 Inhaltsverzeichnis
 
@@ -354,6 +354,6 @@ Bei Fragen kannst du:
 
 ## Danke!
 
-Vielen Dank für deinen Beitrag zum T-Fox Techero-Quiz! 🦊🎉
+Vielen Dank für deinen Beitrag zum ...Steffen T-Fox Techero-Quiz! 🦊🎉
 
 Jeder Beitrag, egal wie klein, macht das Quiz besser für Kinder und Familien.

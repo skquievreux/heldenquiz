@@ -1,7 +1,7 @@
 {
   "name": "t-fox-techero-quiz",
-  "version": "1.1.1",
-  "description": "T-Fox' Techero-Quiz - Ein interaktives, modulares Quiz für Kinder",
+  "version": "1.1.4",
+  "description": "...Steffen T-Fox' Techero-Quiz - Ein interaktives, modulares Quiz für Kinder",
   "type": "module",
   "main": "src/app.js",
   "scripts": {
@@ -9,7 +9,12 @@
     "build": "vite build",
     "preview": "vite preview",
     "start": "vite",
-    "serve": "vite preview --port 8080"
+    "serve": "vite preview --port 8080",
+    "version:patch": "node scripts/bump-version.cjs patch",
+    "version:minor": "node scripts/bump-version.cjs minor",
+    "version:major": "node scripts/bump-version.cjs major",
+    "version:image": "node scripts/bump-version.cjs image",
+    "version:current": "node scripts/show-version.cjs"
   },
   "dependencies": {},
   "devDependencies": {

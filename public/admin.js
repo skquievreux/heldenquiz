@@ -1,4 +1,4 @@
-// Admin Interface für T-Fox Techero-Quiz
+// Admin Interface für ...Steffen T-Fox Techero-Quiz
 // KI-gestützte Fragengenerierung
 
 // DOM-Elemente

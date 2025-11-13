@@ -118,7 +118,7 @@ function createPrompt(category, topic, count, difficulty) {
     const categoryDesc = categoryDescriptions[category] || category;
     const difficultyDesc = difficultyLevels[difficulty] || difficultyLevels.mittel;
 
-    return `Du bist ein Experte für die Erstellung von kindgerechten Quiz-Fragen für das T-Fox Techero-Quiz.
+    return `Du bist ein Experte für die Erstellung von kindgerechten Quiz-Fragen für das ...Steffen T-Fox Techero-Quiz.
 
 KONTEXT:
 - Kategorie: ${categoryDesc}

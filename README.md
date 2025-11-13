@@ -1,11 +1,11 @@
-# 🦊 T-Fox' Techero-Quiz
+# 🦊 ...Steffen T-Fox' Techero-Quiz
 
 Ein interaktives, pädagogisches Quiz für Kinder mit dem sympathischen T-Fox als Begleiter.
 
 🌐 **Live-Demo**: [heldenquiz.vercel.app](https://heldenquiz.vercel.app)
 
 ## Über das Projekt
-![Version](https://img.shields.io/badge/version-1.1.1-blue.svg)
+![Version](https://img.shields.io/badge/version-1.1.4-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Node](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen.svg)
 
@@ -33,9 +33,10 @@ Ein interaktives, pädagogisches Quiz für Kinder mit dem sympathischen T-Fox al
 - **Zufällige Fragenauswahl**: Bei jedem Start werden zufällig Fragen aus dem Pool von 60 Fragen ausgewählt
 - **Social Media Sharing**: Teile deine Quiz-Ergebnisse auf Twitter, Facebook, WhatsApp und LinkedIn
 - **Admin-Interface**: KI-gestützte Fragenerstellung für neue Quiz-Inhalte
+- **Versionshistorie**: In-App Zugriff auf strukturierte Versionshistorie
 ## 🎯 Über das Projekt
 
-Das T-Fox Techero-Quiz ist ein interaktives Lernspiel für Kinder, das Wissen in vier verschiedenen Kategorien vermittelt:
+Das ...Steffen T-Fox Techero-Quiz ist ein interaktives Lernspiel für Kinder, das Wissen in vier verschiedenen Kategorien vermittelt:
 
 - 🦊 **Teamhelden**: Teamarbeit, Zusammenhalt und Freundschaft
 - 🎨 **Kreativ-Ecke**: Kunst, Kreativität und Problemlösung
@@ -74,6 +75,7 @@ T-Fox ist der Anführer der Techeroes und spielt eine zentrale Rolle als Mentor 
 - **Social Sharing**: Teile deine Ergebnisse auf Social Media
 - **Erweiterbar**: Einfaches Hinzufügen neuer Kategorien und Fragen
 - **142+ Fragen**: Umfangreicher Fragen-Pool über 4 Kategorien
+- **Versionshistorie**: Strukturierte Übersicht aller Versionen nach Typ
 
 ## 🚀 Installation
 
@@ -276,6 +278,22 @@ Beiträge sind willkommen! Siehe [CONTRIBUTING.md](CONTRIBUTING.md) für Details
 ## 📝 Changelog
 
 Siehe [CHANGELOG.md](CHANGELOG.md) für eine vollständige Versionshistorie.
+
+### Version 1.1.4 - Versionshistorie
+
+- 📋 **Versionshistorie in der Applikation**: Anklickbarer Button im Footer
+- 🎯 **Strukturierte Anzeige**: Versionen nach Major/Minor/Bugfix gruppiert
+- 🎨 **Professionelles Modal**: Responsive Design mit Animationen
+- 🇩🇪 **Deutsche Lokalisierung**: Vollständig auf Deutsch
+- 🤖 **Automatisches Parsing**: CHANGELOG.md wird automatisch eingelesen
+
+### Version 1.1.3 - Professionelles Versionsmanagement
+
+- 🔢 **Semantisches Versionssystem**: MAJOR.MINOR.PATCH mit Asset-Versionierung
+- 📦 **Automatische Versionserhöhung**: NPM Scripts für Patch/Minor/Major/Image
+- 🖼️ **Cache-Busting**: Automatische Bild-Versionierung
+- 📊 **Version-Manager Modul**: Zentrales Versionshandling
+- 🏗️ **Build-System**: Optimierte Produktions-Builds
 
 ### Version 1.1.0 - Modulare Architektur
 

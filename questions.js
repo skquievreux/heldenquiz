@@ -1,4 +1,4 @@
-// Konfigurierbare Fragen für das T-Fox Techero-Quiz
+// Konfigurierbare Fragen für das ...Steffen T-Fox Techero-Quiz
 // Die Fragen sind nach Kategorien sortiert
 
 const quizQuestions = {

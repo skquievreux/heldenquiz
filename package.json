@@ -16,7 +16,10 @@
     "version:image": "node scripts/bump-version.cjs image",
     "version:current": "node scripts/show-version.cjs"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@tailwindcss/vite": "^4.0.0",
+    "tailwindcss": "^4.0.0"
+  },
   "devDependencies": {
     "vite": "^5.0.0"
   },

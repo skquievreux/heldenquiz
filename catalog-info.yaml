@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: heldenquiz
+  description: |
+    Ein interaktives Quiz-Anwendung, die mit Node.js als Backend-Runtime entwickelt wurde und HTML, CSS und JavaScript für ein responsives Frontend-Erlebnis nutzt.
+  annotations:
+    github.com/project-slug: skquievreux/heldenquiz
+spec:
+  type: service
+  lifecycle: experimental
+  owner: guests
